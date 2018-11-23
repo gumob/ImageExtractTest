@@ -35,8 +35,8 @@ if __name__ == '__main__':
 
     for img_dir_name in listdir(images_dir):
         img_dir_path = join(images_dir, img_dir_name)
-
-        if isdir(img_dir_path):
+        
+        if isdir(img_dir_path) and not img_dir_name == 'invalid_bytedata':
             for infile_filename in listdir(img_dir_path):
 
                 infile_path = join(img_dir_path, infile_filename)
