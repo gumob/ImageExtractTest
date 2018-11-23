@@ -1,2 +1,2 @@
 # ImageExtractTest
-Image set for ImageExtractSwift
+Dataset for ImageExtract Unit Test
