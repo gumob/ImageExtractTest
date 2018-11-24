@@ -143,13 +143,6 @@
             ]
         },
         {
-            "url": "https://raw.githubusercontent.com/gumob/ImageExtractTest/master/images/jpg/jpg-space.jpg",
-            "size": [
-                640,
-                480
-            ]
-        },
-        {
             "url": "https://raw.githubusercontent.com/gumob/ImageExtractTest/master/images/jpg/jpg-mg15s067.jpg",
             "size": [
                 956,
@@ -175,13 +168,6 @@
             "size": [
                 637,
                 344
-            ]
-        },
-        {
-            "url": "https://raw.githubusercontent.com/gumob/ImageExtractTest/master/images/jpg/jpg-parrots.jpg",
-            "size": [
-                384,
-                256
             ]
         },
         {
